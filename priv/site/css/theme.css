@@ -1,14 +1,15 @@
 :root {
   --c-black: #222;
-  --c-white: #f3eac3;
+  --c-white: #fff;
+  --c-purple: #110b20;
 }
 
 html {
-  background-color: var(--c-white);
+  background-color: var(--c-purple);
   font-size: 16px;
   line-height: 1.2;
   font-family: sans-serif;
-  color: var(--c-black);
+  color: var(--c-white);
 }
 
 .title {
